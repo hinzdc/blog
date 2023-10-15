@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Nothing Here
 
 # Your name to show in the footer
-author: Some Person
+author: SARGA
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://hinzdc.xyz"
 
 ################
 # --- Logo --- #
@@ -49,13 +49,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+#  email: ""
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: hinzdc
+  github: hinzdc
+  twitter: hinz_dc
+#  patreon: hinzdc
+  youtube: c/hinzdc
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -163,7 +163,7 @@ footer-hover-col: "#0085A1"
 #gtag: "G-XXXXXXXXXX"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
+#cloudflare_analytics: "7ced4f6b0b5948d6ad1df55808e28ffe"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -179,7 +179,7 @@ footer-hover-col: "#0085A1"
 # Google Universal Analytics ID -- deprecated
 # As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
 # you should switch to using the `gtag` field above instead.
-#google_analytics: "UA-XXXXXXXX-X"
+#google_analytics: "UA-102753693-1"
 
 ####################
 # --- Comments --- #
