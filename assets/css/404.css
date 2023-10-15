@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
 
-html,
-body{
-  margin: 0px;
-  overflow: hidden;
-}
-
 div{
   position: absolute;
   top: 0%;
