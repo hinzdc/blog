@@ -8,14 +8,13 @@ layout: null
 
 html {
   font-size: 100%;
-  font-weight: 500;
   font-family: 'Open Sans', sans-serif;
 }
 
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.125rem;
-  font-weight: 100;
+  font-weight: 500;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
