@@ -1,7 +1,6 @@
 ---
 layout: null
 ---
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 @import url("pygment_highlights.css");
 
 /* --- General --- */
@@ -949,7 +948,7 @@ pre {
 .box-error,
 .box-success {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
-  margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
+  margin: 1.25rem 0.20rem 1.25rem 0.20rem;
   border: 1px solid #eee;
   border-left-width: 0.3125rem;
   border-radius: 0.3125rem 0.1875rem 0.1875rem 0.3125rem;
