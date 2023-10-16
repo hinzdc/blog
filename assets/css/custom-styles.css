@@ -12,3 +12,7 @@ p {
     text-align: justify;
 }
 
+pre {
+    margin: 1.25rem 0.2rem 1.25rem -2.26rem;
+}
+
