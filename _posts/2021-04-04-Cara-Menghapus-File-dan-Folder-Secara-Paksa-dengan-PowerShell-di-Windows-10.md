@@ -9,14 +9,13 @@ comments: true
 Kadang-kadang, Anda mungkin mengalami kesulitan saat mencoba menghapus file atau folder yang tidak dapat dihapus secara normal di Windows 10/11. Hal ini bisa disebabkan oleh berbagai alasan, seperti izin yang salah atau file yang terkunci. Dalam artikel ini, saya akan menjelaskan cara menghapus file dan folder secara paksa menggunakan PowerShell di Windows 10 atau 11.
 
 ### Menggunakan PowerShell untuk Menghapus File Secara Paksa
-
 Jika Anda ingin menghapus file secara paksa, Anda dapat menggunakan PowerShell dengan langkah-langkah berikut:
 1. Buka PowerShell sebagai Administrator. Klik kanan pada ikon PowerShell dan pilih "Run as administrator."
 2. Untuk menghapus file, jalankan perintah berikut, menggantilah "C:\Path\To\File.ext" dengan jalur file yang ingin Anda hapus:
 ```powershell
 Remove-Item -Path "C:\Path\To\File.ext" -Force
 ```
-   PowerShell akan menghapus file tersebut tanpa meminta konfirmasi.
+PowerShell akan menghapus file tersebut tanpa meminta konfirmasi.
 
 ### Menggunakan PowerShell untuk Menghapus Folder Secara Paksa
 Jika Anda ingin menghapus folder secara paksa, Anda dapat mengikuti langkah-langkah berikut:
