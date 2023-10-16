@@ -883,6 +883,7 @@ pre {
   line-height: 1.5em;
   border-radius: 0.25rem;
   padding: 0.59375rem;
+  margin: 1.25rem 0.2rem 1.25rem -2.26rem;
 }
 .highlight pre {
   border: none;
