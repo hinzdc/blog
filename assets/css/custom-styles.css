@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
 html {
-  font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
-
+body {
+    text-align: center;
+}
 .post-preview .post-entry {
     width: 100%;
     text-align: justify;
@@ -14,8 +16,5 @@ html {
 }
 p {
     text-align: justify;
-    word-spacing: 1px;
 }
-footer {
-  background-color: #000
-}
+
