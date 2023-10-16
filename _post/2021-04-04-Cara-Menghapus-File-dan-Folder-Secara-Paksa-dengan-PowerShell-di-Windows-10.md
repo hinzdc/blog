@@ -15,9 +15,9 @@ Jika Anda ingin menghapus file secara paksa, Anda dapat menggunakan PowerShell d
 1. Buka PowerShell sebagai Administrator. Klik kanan pada ikon PowerShell dan pilih "Run as administrator."
 
 2. Untuk menghapus file, jalankan perintah berikut, menggantilah "C:\Path\To\File.ext" dengan jalur file yang ingin Anda hapus:
-   ```powershell
-   Remove-Item -Path "C:\Path\To\File.ext" -Force
-   ```
+```powershell
+Remove-Item -Path "C:\Path\To\File.ext" -Force
+```
    PowerShell akan menghapus file tersebut tanpa meminta konfirmasi.
 
 ## Menggunakan PowerShell untuk Menghapus Folder Secara Paksa
@@ -25,9 +25,9 @@ Jika Anda ingin menghapus file secara paksa, Anda dapat menggunakan PowerShell d
 Jika Anda ingin menghapus folder secara paksa, Anda dapat mengikuti langkah-langkah berikut:
 1. Buka PowerShell sebagai Administrator.
 2. Untuk menghapus folder, jalankan perintah berikut, gantilah "C:\Path\To\Folder" dengan jalur folder yang ingin Anda hapus:
-   ```powershell 
-   Remove-Item -Path "C:\Path\To\Folder" -Recurse -Force
-   ```
+```powershell 
+Remove-Item -Path "C:\Path\To\Folder" -Recurse -Force
+```
    * `-Recurse` digunakan untuk menghapus semua konten di dalam folder tersebut.
    * `-Force` digunakan untuk menghapus folder dan kontennya tanpa konfirmasi.
 
