@@ -19,7 +19,7 @@ Ikon folder tanpa nama di desktop dapat menjadi gangguan dan membuat tampilan de
 
 ### Hapus Folder Registry
 
-4. Klik kanan pada folder tersebut dan pilih "Delete". Ini akan menghapus folder registry yang terkait dengan ikon folder tanpa nama di desktop.
+4. Klik kanan pada folder `{00020D75-0000-0000-C000-000000000046}` dan pilih "Delete". Ini akan menghapus folder registry yang terkait dengan ikon folder tanpa nama di desktop.
 
 ### Refresh Desktop
 
