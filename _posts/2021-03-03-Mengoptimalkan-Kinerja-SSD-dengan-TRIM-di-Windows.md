@@ -2,7 +2,7 @@
 layout: post
 title: Mengoptimalkan Kinerja SSD dengan TRIM di Windows
 subtitle: 
-tags: [SSD, cmd, powershell]
+tags: [SSD, cmd, powershell, tips & tricks]
 comments: true
 ---
 
