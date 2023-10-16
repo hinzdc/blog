@@ -25,13 +25,13 @@ Seiring penggunaan SSD, blok penyimpanan yang tidak lagi digunakan oleh file dap
 ## Menggunakan Command Prompt (cmd)
 1. Buka Command Prompt sebagai Administrator. Klik kanan pada ikon Command Prompt dan pilih "Run as administrator."
 2. Jalankan perintah berikut, gantilah "C" dengan huruf drive dari SSD Anda:
-~~~
+```
 defrag C: /O
-~~~
+```
 3. Command Prompt akan menjalankan operasi TRIM pada drive yang ditentukan.
+
+Pastikan Anda berhati-hati dan memeriksa huruf drive dengan benar sebelum menjalankan perintah. Penggunaan perintah yang salah dapat berdampak pada data yang tidak diinginkan. Selain itu, sebaiknya Anda tidak perlu secara teratur menjalankan operasi TRIM secara manual, karena Windows akan mengelola operasi ini secara otomatis. Operasi TRIM manual lebih sesuai untuk pemeliharaan tambahan atau jika Anda mengalami kendala khusus dengan kinerja SSD.
 
 {: .box-note}
 **Note:**
-Pastikan Anda berhati-hati dan memeriksa huruf drive dengan benar sebelum menjalankan perintah. Penggunaan perintah yang salah dapat berdampak pada data yang tidak diinginkan. Selain itu, sebaiknya Anda tidak perlu secara teratur menjalankan operasi TRIM secara manual, karena Windows akan mengelola operasi ini secara otomatis. Operasi TRIM manual lebih sesuai untuk pemeliharaan tambahan atau jika Anda mengalami kendala khusus dengan kinerja SSD.
-
 Penting untuk menjaga SSD Anda agar tetap dalam kondisi baik untuk memaksimalkan manfaat dari penyimpanan berbasis SSD yang andal dan cepat.
