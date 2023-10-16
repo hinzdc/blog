@@ -8,12 +8,10 @@ comments: true
 
 Solid State Drives (SSD) adalah jenis penyimpanan yang semakin populer karena kecepatan dan efisiensinya. Namun, untuk menjaga kinerjanya tetap optimal, diperlukan perawatan yang sesuai. Salah satu operasi penting untuk SSD adalah TRIM. TRIM adalah proses yang membantu SSD membersihkan dan mengoptimalkan penyimpanannya. Dalam artikel ini, kami akan membahas cara melakukan operasi TRIM pada SSD di Windows menggunakan PowerShell atau Command Prompt.
 
-## Pentingnya TRIM
-
+### Pentingnya TRIM
 Seiring penggunaan SSD, blok penyimpanan yang tidak lagi digunakan oleh file dapat menjadi "sampah" yang dapat mengurangi kinerja SSD. TRIM membantu mengidentifikasi blok-blok tersebut dan memungkinkan SSD membersihkannya, sehingga memastikan kinerja optimal. Biasanya, Windows menjalankan operasi TRIM secara otomatis, tetapi jika Anda ingin melakukan pemeliharaan tambahan atau memiliki kendala tertentu, Anda dapat menjalankan operasi TRIM secara manual.
 
-## Menggunakan PowerShell
-
+### Menggunakan PowerShell
 1. Buka PowerShell sebagai Administrator. Klik kanan pada ikon PowerShell dan pilih "Run as administrator."
 2. Jalankan perintah berikut, menggantilah "C" dengan huruf drive dari SSD Anda:
    ```powershell
@@ -22,7 +20,7 @@ Seiring penggunaan SSD, blok penyimpanan yang tidak lagi digunakan oleh file dap
    Gantilah "C" dengan huruf drive dari SSD Anda.
 3. PowerShell akan menjalankan operasi TRIM pada drive yang ditentukan.
 
-## Menggunakan Command Prompt (cmd)
+### Menggunakan Command Prompt (cmd)
 1. Buka Command Prompt sebagai Administrator. Klik kanan pada ikon Command Prompt dan pilih "Run as administrator."
 2. Jalankan perintah berikut, gantilah "C" dengan huruf drive dari SSD Anda:
 ```
