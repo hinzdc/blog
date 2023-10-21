@@ -4,6 +4,7 @@ title: Cara Mengecek Lisensi Key Windows Yang terpasang pada Motherboard
 subtitle: 
 tags: [Windows, Tutorial, cmd]
 comments: true
+readtime: true
 ---
 
 Apakah Anda ingin memastikan bahwa lisensi produk Windows yang terpasang pada motherboard komputer Anda masih aktif? Mengecek lisensi key pada motherboard bisa menjadi langkah penting untuk memahami status lisensi perangkat lunak Anda. Dalam artikel ini, saya akan membahas cara melakukan hal ini dengan menggunakan utility bawaan windows yaitu WMIC.
