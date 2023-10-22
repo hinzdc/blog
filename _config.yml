@@ -20,14 +20,13 @@ author: SARGA
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Tutorial: "/"
-  Tips: "/"
-  Trick: "/"
+  Tips & Trick: "/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://hinzdc.xyz"
+  About Me: "aboutme"
 
 ################
 # --- Logo --- #
