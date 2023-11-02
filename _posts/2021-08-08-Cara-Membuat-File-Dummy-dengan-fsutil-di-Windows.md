@@ -2,7 +2,7 @@
 layout: post
 title: Cara Membuat File Dummy dengan fsutil di Windows
 subtitle: 
-tags: [test]
+tags: [Tutorial, cmd]
 comments: true
 readtime: true
 ---
@@ -27,4 +27,4 @@ Perintah ini akan menciptakan file baru dengan nama "dummyfile.dat" di lokasi "C
 
 Setelah menjalankan perintah, Anda dapat memeriksa file dummy yang baru dibuat di lokasi yang Anda tentukan (dalam contoh ini, "C:\dummy\dummyfile.dat"). File ini akan memiliki ukuran yang sesuai dengan yang Anda tetapkan dalam perintah.
 
-Begitulah cara membuat file dummy menggunakan fsutil pada command prompt 
+Begitulah cara membuat file dummy menggunakan fsutil pada command prompt. Anda juga bisa membuat file dummy menggunakan powershell pada tutorial berikut: [Membuat file dummy di windows 10/11 dengan powershell](https://hinzdc.xyz/blog/2021-07-07-Membuat-file-dummy-dengan-powershell)
