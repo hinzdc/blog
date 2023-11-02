@@ -27,7 +27,7 @@ Jalur penyebaran: Worm virus shortcut menginfeksi komputer > menginfeksi USB, pe
 
  ![shortcut-virus-spread-mode](https://github.com/hinzdc/blog/assets/24857547/d3eee18c-6e9f-495f-aeac-7fc2cc8e4b72)
 
-Jadi bagaimana cara menghapus virus shortcut dari USB atau pen drive dan mengembalikan semua file yang hilang?  Lanjutkan membaca, Anda akan menemukan lima solusi untuk menghapus virus pintasan dengan menggunakan cmd, file .bat, penghapus virus shortcut, membersihkan virus shortcut di PC, serta menghapus key mencurigakan di Registry Editor.
+Jadi bagaimana cara menghapus virus shortcut dari USB atau pen drive dan mengembalikan semua file yang hilang?  Lanjutkan membaca, Anda akan menemukan lima solusi untuk menghapus virus shortcut dengan menggunakan cmd, file .bat, penghapus virus shortcut, membersihkan virus shortcut di PC, serta menghapus key mencurigakan di Registry Editor.
 
 ### Metode 1. Menghapus Virus Shortcut Menggunakan CMD
 Salah satu metode yang paling disarankan untuk menghapus virus shortcut dari pen drive atau usb flash drive adalah dengan menggunakan perintah attrib.
@@ -44,7 +44,7 @@ Berikut langkah detailnya:
 5. Ketik: `attrib -h - r -s  /s /d E:\*.*` dan tekan Enter.  (Ganti E: dengan huruf drive perangkat Anda yang terinfeksi).
 
 {: .box-note}
-Tips: Jika cara ini tidak berhasil, kemungkinan besar Anda terinfeksi virus lain.  Ganti autorun.inf dengan ekstensi virus lain seperti *.exe untuk menghapus virus mencurigakan tersebut.
+**Tips**: Jika cara ini tidak berhasil, kemungkinan besar Anda terinfeksi virus lain.  Ganti autorun.inf dengan ekstensi virus lain seperti *.exe untuk menghapus virus mencurigakan tersebut.
 
 ### Metode 2. Buat File BAT untuk Menghapus Virus Shortcut dari USB
 Dengan membuat file BAT, Anda cukup menjalankan file BAT dan menggunakannya untuk menghapus dan menghapus virus shortcut yang ada dengan langkah-langkah di bawah ini:
@@ -62,12 +62,12 @@ Dengan membuat file BAT, Anda cukup menjalankan file BAT dan menggunakannya untu
  3. Save dan beri nama `virus shortcut remover.bat`, pada ___Type as files___ ubah menjadi ___All Files___ dan simpan di desktop Anda.
  4. Klik dua kali file .bat di desktop Anda dan tunggu prosesnya selesai.
 
-Sekarang, Anda seharusnya sudah berhasil menghapus virus pintasan dari flash drive USB, pen drive, atau kartu SD Anda menggunakan cmd.
+Sekarang, Anda seharusnya sudah berhasil menghapus virus shortcut dari flash drive USB, pen drive, atau kartu SD Anda menggunakan cmd.
 
 ### Metode 3. Gunakan Antivirus - Remover virus shortcut USB
-Saat Anda mencari alat penghapus virus pintasan atau perangkat lunak penghapus virus secara online, hasil pencarian yang luar biasa ditampilkan di browser Anda.
+Saat Anda mencari alat penghapus virus shortcut atau perangkat lunak penghapus virus secara online, hasil pencarian yang luar biasa ditampilkan di browser Anda.
 
-Di sini, Anda akan melihat daftar alat yang direkomendasikan yang dapat membantu Anda menghapus virus shortcut dari USB, kartu SD, atau perangkat penyimpanan lainnya：
+Di sini, Anda akan melihat daftar tools yang direkomendasikan yang dapat membantu Anda menghapus virus shortcut dari USB, kartu SD, atau perangkat penyimpanan lainnya：
 
 - Shortcut Virus Remover
 - USB Shortcut Virus Remover
@@ -78,7 +78,7 @@ Di sini, Anda akan melihat daftar alat yang direkomendasikan yang dapat membantu
 Anda dapat memilih salah satu alat yang terdaftar dan menerapkannya untuk menghapus dan membersihkan virus dari perangkat penyimpanan Anda.
 
 {: .box-note}
-Pemberitahuan:
+**Note**:
 Semua metode yang disediakan di atas dapat melepaskan perangkat penyimpanan dan file Anda dari infeksi virus shortcut.
 Ketika proses penghapusan virus selesai, Anda dapat membuka kembali perangkat penyimpanan Anda untuk memeriksa data yang disimpan.
 
