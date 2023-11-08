@@ -2,7 +2,7 @@
 layout: post
 title: Disable or Remove Unsupported OS Warning in Chrome and Edge on Windows 7 and 8.1
 subtitle: 
-tags: [Tutorial]
+tags: [Tutorial, registry]
 comments: true
 readtime: true
 ---
