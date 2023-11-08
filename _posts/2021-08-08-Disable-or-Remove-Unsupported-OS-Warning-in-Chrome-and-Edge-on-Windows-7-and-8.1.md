@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 
+title: Disable or Remove Unsupported OS Warning in Chrome and Edge on Windows 7 and 8.1
 subtitle: 
-tags: [test]
+tags: [Tutorial]
 comments: true
+readtime
 ---
 
 Windows 7 dan 8.1 adalah sistem operasi yang telah mencapai akhir dukungan resmi dari Microsoft. Beberapa peramban web modern seperti Google Chrome dan Microsoft Edge mungkin menampilkan peringatan "sistem operasi tidak didukung." Anda dapat menonaktifkan atau menghapus peringatan ini dengan mengedit Registry Editor (Regedit) menggunakan opsi "SuppressUnsupportedOSWarning." Artikel ini akan memandu Anda tentang cara melakukan ini di Windows 7 dan 8.1.
@@ -41,9 +42,5 @@ Anda perlu menavigasi ke lokasi yang benar dalam Registry Editor untuk menonakti
 ## Langkah 3: Restart Komputer
 
 Setelah Anda mengedit registri, Anda perlu me-restart komputer Anda agar perubahan berlaku.
-
-## Kesimpulan
-
-Menggunakan opsi "SuppressUnsupportedOSWarning" dalam Registry Editor adalah cara yang efektif untuk menonaktifkan peringatan sistem operasi tidak didukung di Chrome dan Edge pada Windows 7 dan 8.1. Pastikan Anda mengikuti petunjuk dengan hati-hati dan berhati-hati saat mengedit registri, karena kesalahan dapat menyebabkan masalah pada sistem Anda.
 
 Sebelum mengambil langkah ini, pertimbangkan juga risiko keamanan yang mungkin terkait dengan menggunakan sistem operasi yang sudah tidak didukung. Jika memungkinkan, pertimbangkan untuk meningkatkan ke sistem operasi yang lebih baru dan didukung untuk pengalaman online yang lebih aman.
